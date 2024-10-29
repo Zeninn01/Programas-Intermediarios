@@ -11,7 +11,7 @@ Este repositório é uma coleção de programas Intermediarios feitos em Python.
 
 Cada programa está contido em um arquivo separado e é nomeado de acordo com sua funcionalidade. Abaixo está uma lista de alguns dos programas incluídos:
 
-
+- `Senha_Random.py`: Este programa cria uma senha aleatória de acordo com as preferências do usuário. (Quantidade de caracteres, inclusão de simbolos, inclusão de numeros e inclusão de letras maiusculas)
 
 ## Versão Utilizada
 
