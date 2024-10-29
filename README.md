@@ -1,4 +1,4 @@
-# Python Basics Collection
+# Python Intermediate Collection
 
 ![Python](https://img.shields.io/badge/Python-3.12.5-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
